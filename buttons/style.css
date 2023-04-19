@@ -1,0 +1,115 @@
+.container{
+    width: 80%;
+    padding: 0 10%
+}
+.row{
+    display: inline-block;
+}
+.but .but1{
+    background-color: blue;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but2{
+    background-color: khaki;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but3{
+    background-color: greenyellow;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but4{
+    background-color: salmon;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but5{
+    background-color: aqua;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but6{
+    background-color: hotpink;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but7{
+    background-color: mediumpurple;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but8{
+    background-color: navy;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but9{
+    background-color: oldlace;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but10{
+    background-color: yellowgreen;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but11{
+    background-color: rebeccapurple;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
+.but .but12{
+    background-color:gold;
+    border: 1px solid #000;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    margin:10px 10px;
+    width: 70px;
+}
